@@ -12,3 +12,5 @@ Basically giving 1 GB and up to 8 GB of memory for Java Virtual Machine (JVM), w
 #!/bin/sh
 docker run -e _JAVA_OPTIONS="-Xmx8g -Xms1g" -v /hostfolder:/dockerfolderinternal -it --rm mariana_trench
 ```
+## Running the tool 
+https://github.com/facebook/mariana-trench#running-mariana-trench
