@@ -1,4 +1,4 @@
-The open source tool can be downloaded from here [here](https://github.com/facebook/mariana-trench).
+The open source tool can be downloaded from [here](https://github.com/facebook/mariana-trench).
 
 This is just a basic docker implementation of the tool. Previously had problems with building it on ARM, so the docker version appeared.
 
