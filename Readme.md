@@ -1,6 +1,11 @@
-The open source tool can be downloaded from [here](https://github.com/facebook/mariana-trench).
+The open source tool can be downloaded from [here](https://github.com/facebook/mariana-trench). 
 
-This is just a basic docker implementation of the tool. Previously had problems with building it on ARM, so the docker version appeared.
+Next place it in any folder and access it from docker container. Run it internally and analyze with sapp also internally from docker. Then run server from host system in the folder of the app.  
+
+This is just a basic docker implementation of the tool. Previously had problems with building it on ARM, so the docker version appeared. 
+
+**Important!** 
+Clone mariana trench to a separate directory to run from docker container internally. 
 
 ## Build:
 ```bash
